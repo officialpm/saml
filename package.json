@@ -1,0 +1,17 @@
+{
+    "name": "samlparth",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "connect": "^2.30.2",
+        "express": "^3.5.3",
+        "passport": "^0.2.2",
+        "passport-saml": "0.15.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/officialpm/saml.git"
+    }
+}
